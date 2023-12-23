@@ -39,14 +39,13 @@
   - <b>CCNAv7 Cisco</b>
 
 
-
 <h2> 🤳 Connect with me:</h2>
+
 [<img align="left" alt="StefanCooke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="StefanCooke | Website" width="22px" src="https://github.com/stefancooke/stefancooke/assets/119261557/2d47e78e-89d1-4176-ad07-168bb7a4a0a5" />][website]
 
-
-[website]: https://stefancooke.tech/ 
 [linkedin]:https://www.linkedin.com/in/istefancooke/
+[website]: https://stefancooke.tech/ 
 
 <!--
 
