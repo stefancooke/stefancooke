@@ -33,8 +33,11 @@
 - Bachelor's of Science in Computer Science for Cyber Security (2:1 Honours)
 
 <h2> Certifications:</h2>
-- CompTIA Security+
-- CCNAv7 Cisco
+  
+  - <b>CompTIA Security+</b>
+  
+  - <b>CCNAv7 Cisco</b>
+
 
 
 <h2> 🤳 Connect with me:</h2>
