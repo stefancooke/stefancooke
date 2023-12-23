@@ -1,11 +1,11 @@
-<h1>Hi, I'm Stef! <br/><a href="https://github.com/stefancooke">Programmer</a>, and <a href="https://www.stefancooke.tech/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Stef! <br/><a href="https://github.com/stefancooke">Programmer</a>, and <a href="https://www.stefancooke.tech/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Anti-Phishing Educational Mobile App (Java, Firebase)</b>
   - [Teaching about social-engineering via a mobile app](https://github.com/stefancooke/cybernet2)
  - <b>Vulnerability Management (Tenable Nessus Essentials)</b>
-    - [Remediating vulnerability on a Windows PC](https://github.com/stefancooke/cybernet2)
+    - [Remediating vulnerability on a Windows PC](https://github.com/stefancooke/Vulnerability-Management-Tenable-Nessus-Essentials-)
 <!--- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
