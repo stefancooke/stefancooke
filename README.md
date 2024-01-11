@@ -34,7 +34,7 @@
 
 <h2> Certifications:</h2>
   
-  - <b>CompTIA Security+</b>
+  - <b>CompTIA Security+ (Expected 2024)</b>
   
   - <b>CCNAv7 Cisco</b>
 
